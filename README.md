@@ -1,1 +1,1 @@
-# Fitness_app
+# fitness-app
